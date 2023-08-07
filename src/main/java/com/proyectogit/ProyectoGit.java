@@ -15,5 +15,7 @@ public class ProyectoGit {
         System.out.println("Modificado por WalterDjb");
         
         System.out.println("hola ");
+        
+        System.out.println("hola Gente");
     }
 }
