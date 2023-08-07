@@ -10,4 +10,6 @@ package com.proyectogit;
  */
 public class ariel {
     
+    public String Cambio;
+    
 }
