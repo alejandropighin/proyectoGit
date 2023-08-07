@@ -15,12 +15,13 @@ public class ProyectoGit {
         System.out.println("Modificado por WalterDjb");
         
         System.out.println("hola ");
+
         
         System.out.println("hola Gente");
         System.out.println("que onda perri");
         
         System.out.println("ooootro cambio");
 
-        
+
     }
 }
