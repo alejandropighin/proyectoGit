@@ -8,6 +8,8 @@ package com.proyectogit;
  *
  * @author EQUIPO
  */
-public class walter {
+public class Walter {
+    // Aquí inserte el código
     
+    public void ejemplo(){} // método de ejemplo que sirve para poner algo para decir que aporté
 }
